@@ -21,8 +21,7 @@ function GetRadioChannelUsersCount()
 	for k,v in pairs(radioData) do
 		count = count + 1;
 	end
-
-	return count;
+	return count
 end
 exports('GetRadioCount', GetRadioChannelUsersCount)
 
