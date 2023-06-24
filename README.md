@@ -17,12 +17,18 @@ end
 exports('GetRadioChannel', GetRadioChannel)
 
 function GetRadioChannelUsersCount()
+
 	local count = 0;
+ 
 	for k,v in pairs(radioData) do
+ 
 		count = count + 1;
+  
 	end
+ 
 	return count
 end
+
 exports('GetRadioCount', GetRadioChannelUsersCount)
 
 # Preview
