@@ -11,9 +11,13 @@ Hud inspired on 5City
 
 # Add this to pma-voice>client>module>radio.lua
 
+
 function GetRadioChannel()
+
 	return radioChannel
+ 
 end
+
 exports('GetRadioChannel', GetRadioChannel)
 
 function GetRadioChannelUsersCount()
