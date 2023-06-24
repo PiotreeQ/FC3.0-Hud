@@ -1,5 +1,6 @@
 # FC3.0-Hud
 Hud inspired on 5City
+(It will be updated soon, i made this version in 1-2 hours)
 
 # Dependecies
 - ESX Framework
