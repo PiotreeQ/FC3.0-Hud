@@ -7,6 +7,7 @@ Hud inspired on 5City
 - esx_status
 - pma-voice
 - Stress System by utku (https://github.com/utkuali/Stress-System-by-utku)
+- ox_lib
 
 # Preview
 
