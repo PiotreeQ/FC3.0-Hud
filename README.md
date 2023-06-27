@@ -1,6 +1,6 @@
 # FC3.0-Hud
 Hud inspired on 5City
-(It will be updated soon, i made this version in 1-2 hours)
+(Update 1.1 is already out)
 
 # Dependecies
 - ESX Framework
@@ -14,4 +14,5 @@ Copy all from pma.txt to pma-voice>client>module>radio.lua
 
 # Preview
 
-![image](https://github.com/PiotreeQ/FC3.0-Hud/assets/47689001/4e498c65-0c0a-4f09-98a9-afeb4ba8975e)
+![image](https://github.com/PiotreeQ/FC3.0-Hud/assets/47689001/21c49a7b-2e26-4fe5-99cd-8d01ca905960)
+
