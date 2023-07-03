@@ -15,16 +15,6 @@ Hud inspired on 5City
 - Stress System by utku (https://github.com/utkuali/Stress-System-by-utku)
 - ox_lib
 
-# Exports
-
-```exports['FC3.0-Hud']:Notify('Testowe powiadomienie', 5000)```
-```local progbar = exports['FC3.0-Hud']:Progress(5000, 'Szukanie...')```
-   ```if progbar then```
-       ```-- Do something```
-   ```else```
-        ```-- Do something```
-    ```end```
-
 # Install
 Copy all from pma.txt to pma-voice>client>module>radio.lua
 
